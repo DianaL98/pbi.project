@@ -8,7 +8,7 @@ Report je vytvořen v **Power BI** jako pokračování SQL projektu, kde byla p�
 
 ---
 
-## Použitá data  
+## Použitá data/propojení 2+ tabulek
 - **t_diana_lehka_project_sql_primary_final**  
   Obsahuje sjednocená data o mzdách a cenách potravin v ČR.  
   - Sloupce: `year`, `industry_code`, `industry_name`, `avg_wage_czk`, `food_code`, `food_name`, `avg_price_czk`, `value`, `unit`.  
@@ -76,9 +76,3 @@ Report má celkem **4 stránky + úvodní menu**.
 - Grafická úprava použitých vizuálů, zvolení správných typů vizuálů a vizuálně přívětivý výsledný report
 
 ---
-
-## Shrnutí  
-Report ukazuje:  
-- Vývoj průměrných mezd v jednotlivých odvětvích v ČR.  
-- Změny cen základních potravin.  
-- Mezinárodní kontext – HDP a GINI vybraných evropských států.
